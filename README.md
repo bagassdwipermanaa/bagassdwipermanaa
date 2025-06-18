@@ -106,9 +106,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bagassdwipermanaa&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
 </p>
-<p>
-  <img src="https://wakatime.com/badge/user/f7eda4f3-fafc-4ec3-bc31-d5f7e1e84528.svg"/>
-</p>
 
 <p align="center">
   <b>Made with ❤️ by Bagas Dwi Permana</b>
