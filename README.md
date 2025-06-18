@@ -74,10 +74,8 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 💻 **Portfolio Website** | Clean, modern, animated web portfolio. | HTML, Tailwind, JS |
-| 📂 **File Converter App** | TXT ⇄ VCF converter with GUI. | Python, Tkinter |
 | 🎓 **Grading System** | Java GUI for student grades. | Java Swing |
 | 👨‍💼 **Employee Manager** | App to manage employee data. | C# WinForms |
-| 🕹️ **Game Top-Up Clone** | Static web like UniPin. | HTML, CSS |
 
 ---
 
@@ -105,9 +103,10 @@
 
 ## 💬 Contact Me
 
-📩 Email: `bagas@example.com`  
-💬 Discord: `bagaspermana#1234`  
-🌐 Website: [bagasdwipermana.netlify.app](https://bagasdwipermana.netlify.app)  
+📩 Email: [bagastelkomschool@gmail.com](mailto:bagastelkomschool@gmail.com)  
+💬 Discord: [zasazszazsa](https://discord.com/users/zasazszazsa)  
+🌐 Website: [bagasdwipermana.netlify.app](https://bagasdwipermana.netlify.app)
+
 
 ---
 
