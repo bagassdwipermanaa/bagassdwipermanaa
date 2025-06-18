@@ -88,14 +88,6 @@
 
 ---
 
-## 🗺️ Contribution Map
-<p align="center">
-  <img src="https://github.com/bagassdwipermanaa/bagassdwipermanaa/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-
----
-
 ## ✨ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
