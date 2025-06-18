@@ -1,86 +1,136 @@
-<!-- PROFILE TITLE -->
-<h1 align="center">Hi 👋, I'm Bagas Dwi Permana</h1>
-<h3 align="center">💻 Web Developer & 🎨 UI/UX Designer from Indonesia</h3>
+<!-- TITLE -->
+<h1 align="center">Hi there 👋, I'm Bagas Dwi Permana</h1>
+<h3 align="center">🚀 Passionate Web Developer & UI/UX Designer from Indonesia</h3>
 
-<!-- TYPING EFFECT -->
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+cool+websites;Always+learning+new+techs;Java%2C+C%23%2C+React%2C+Python%2C+and+more!&center=true&width=500&height=30">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Crafting+modern+web+experiences;Loves+coding+%26+design;Building+cool+apps+with+Java%2C+C%23%2C+Python;Always+exploring+new+tech+stack" alt="Typing SVG" />
 </p>
 
 <!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://instagram.com/bagassdwipermanaa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/bagassdwipermanaa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/bagassdwipermanaa" target="_blank">
     <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://bagasdwipermana.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Website-portfolio-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:bagas@example.com">
+    <img src="https://img.shields.io/badge/Email-bagas@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/1234567890">
+    <img src="https://img.shields.io/badge/Discord-bagaspermana%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🔥 About Me
-- 🔭 Currently working on: **Portfolio, File Tools App (Java, C#)**
-- 🌱 Learning: **ReactJS, Tailwind CSS, Node.js**
-- 💬 Ask me about: **HTML, CSS, JS, Java, Python**
-- 📫 Contact: **[@bagassdwipermanaa](https://instagram.com/bagassdwipermanaa)** or **bagasdwipermanaa@gmail.com**
-- ⚡ Fun fact: I enjoy staying up late building random apps & bots.
+## 🔥 About Me
+- 👨‍🎓 Student & Self-Taught Dev | Always exploring something new
+- 🧠 Constant learner of tech, design, and software engineering
+- 🛠️ Tools I love: VSCode, Figma, Git, Postman, Netlify
+- 🧩 Current Projects: Portfolio, GUI Apps, & Web Clones
+- 👀 Learning: React, Tailwind, Firebase, Node.js
+- 📌 Goals: Backend mastery & full IT skill domination
+- 🎧 Coding while listening to lo-fi & rain sounds ☔
 
 ---
 
-### 💼 Tech Stack
-<p align="left">
+## 🧰 Languages & Tools
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagassdwipermanaa&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagassdwipermanaa&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bagassdwipermanaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagassdwipermanaa&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bagassdwipermanaa&theme=tokyonight&row=1&no-bg=true&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bagassdwipermanaa&theme=tokyonight&no-frame=true&column=6&margin-w=10"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
-- ✅ **Portfolio Website** – Built with HTML, Tailwind CSS, and animations  
-- ✅ **Employee Data App** – C# WinForms project with CRUD  
-- ✅ **Student Grading App** – Java Swing GUI to input and calculate student grades  
-- ✅ **TXT/VCF Converter** – Python GUI app using Tkinter + file handling  
-- ✅ **Game Top-up UI Clone** – Static web page simulating top-up service
+## 📌 Popular Repositories
+<p align="center">
+  <a href="https://github.com/bagassdwipermanaa/portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bagassdwipermanaa&repo=portfolio&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/bagassdwipermanaa/file-converter">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bagassdwipermanaa&repo=file-converter&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
-### 📫 Find Me On
-- 🌐 Website: [https://bagasdwipermana.netlify.app](https://bagasdwipermana.netlify.app)  
-- 📷 Instagram: [@bagassdwipermanaa](https://instagram.com/bagassdwipermanaa)  
-- 💼 LinkedIn: [linkedin.com/in/bagassdwipermanaa](https://linkedin.com/in/bagassdwipermanaa)  
-- 🐦 X/Twitter: [x.com/bagassdwipermanaa](https://x.com/bagassdwipermanaa)  
-- 🎮 Discord: `bagas#1234` _(edit ini sesuai yang benar)_
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 💻 **Portfolio Website** | Clean, modern, animated web portfolio. | HTML, Tailwind, JS |
+| 📂 **File Converter App** | TXT ⇄ VCF converter with GUI. | Python, Tkinter |
+| 🎓 **Grading System** | Java GUI for student grades. | Java Swing |
+| 👨‍💼 **Employee Manager** | App to manage employee data. | C# WinForms |
+| 🕹️ **Game Top-Up Clone** | Static web like UniPin. | HTML, CSS |
+
+---
+
+## ⌛ Time Spent Coding
+<!-- Wakatime -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bagassdwipermanaa&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🗺️ Contribution Map
+<p align="center">
+  <img src="https://github.com/bagassdwipermanaa/bagassdwipermanaa/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
+
+## ✨ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+## 💬 Contact Me
+
+📩 Email: `bagas@example.com`  
+💬 Discord: `bagaspermana#1234`  
+🌐 Website: [bagasdwipermana.netlify.app](https://bagasdwipermana.netlify.app)  
 
 ---
 
 <p align="center">
-  Made with ❤️ by Bagas Dwi Permana
+  <img src="https://komarev.com/ghpvc/?username=bagassdwipermanaa&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <b>Made with ❤️ by Bagas Dwi Permana</b>
 </p>
