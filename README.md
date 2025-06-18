@@ -12,21 +12,18 @@
   <a href="https://instagram.com/bagassdwipermanaa" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/bagassdwipermanaa" target="_blank">
+  <a href="https://www.linkedin.com/in/bagas-dwi-permana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/bagassdwipermanaa" target="_blank">
-    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://bagasdwipermana.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="mailto:bagas@example.com">
+  <a href="mailto:bagastelkomschool@gmail.com">
     <img src="https://img.shields.io/badge/Email-bagas@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/1234567890">
-    <img src="https://img.shields.io/badge/Discord-bagaspermana%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+<a href="https://discord.com/users/zasazszazsa">
+  <img src="https://img.shields.io/badge/Discord-zasazszazsa-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 </p>
 
 ---
