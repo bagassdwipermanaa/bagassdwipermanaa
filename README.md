@@ -56,7 +56,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagassdwipermanaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <figure><embed src="https://wakatime.com/share/@bagassdwipermanaa/fb0db055-cc71-4a9f-9dbd-ad40cc0098da.svg"></embed></figure>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagassdwipermanaa&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
