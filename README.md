@@ -82,7 +82,7 @@
 ## ⌛ Time Spent Coding
 <!-- Wakatime -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bagassdwipermanaa&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bagassdwipermanaa&layout=compact&theme=tokyonight&v=2"/>
 </p>
 
 ---
