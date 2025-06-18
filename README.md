@@ -69,18 +69,6 @@
 
 ---
 
-## 📌 Popular Repositories
-<p align="center">
-  <a href="https://github.com/bagassdwipermanaa/portofolio_bagas_dwi_permana">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bagassdwipermanaa&repo=portfolio&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/bagassdwipermanaa/uiux-esport-smktelkom">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bagassdwipermanaa&repo=file-converter&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ## 📂 Featured Projects
 
 | Project | Description | Tech |
