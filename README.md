@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:bagastelkomschool@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bagas@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-bagastelkomschool@gmail.com.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 <a href="https://discord.com/users/zasazszazsa">
   <img src="https://img.shields.io/badge/Discord-zasazszazsa-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
