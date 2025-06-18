@@ -90,8 +90,9 @@
 
 ## 🗺️ Contribution Map
 <p align="center">
-  <img src="https://github.com/bagassdwipermanaa/bagassdwipermanaa/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/bagassdwipermanaa/bagassdwipermanaa/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
 
 ---
 
