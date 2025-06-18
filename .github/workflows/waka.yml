@@ -1,0 +1,16 @@
+name: ⏰ WakaTime Readme
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # update setiap hari jam 13:00 WIB
+  workflow_dispatch: # bisa dijalankan manual dari GitHub
+
+jobs:
+  update-readme:
+    name: Update WakaTime Stats in README
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
