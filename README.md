@@ -56,10 +56,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <figure><embed src="https://wakatime.com/share/@bagassdwipermanaa/fb0db055-cc71-4a9f-9dbd-ad40cc0098da.svg"></embed></figure>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagassdwipermanaa&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
