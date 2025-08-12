@@ -1,78 +1,82 @@
 <div align="center">
 
 <svg width="900" height="250" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .header-bg {
-      fill: url(#header-gradient);
-    }
-    .title, .subtitle {
-      font-family: 'Fira Code', 'Segoe UI', 'Roboto', sans-serif;
-      fill: #ffffff;
-      text-anchor: middle;
-    }
-    .title {
-      font-size: 38px;
-      font-weight: bold;
-      animation: glow 2s ease-in-out infinite alternate;
-    }
-    .subtitle {
-      font-size: 18px;
-      animation: fadeIn 3s ease-in;
-    }
-    .icon {
-      animation: float 4s ease-in-out infinite;
-    }
-    .icon-2 { animation-delay: 1s; }
-    .icon-3 { animation-delay: 2s; }
-
-    @keyframes gradient-animation {
-      0% { stop-color: #0d1117; }
-      50% { stop-color: #161b22; }
-      100% { stop-color: #0d1117; }
-    }
-    @keyframes glow {
-      from {
-        text-shadow: 0 0 5px #00F7FF, 0 0 10px #00F7FF, 0 0 15px #00F7FF;
-      }
-      to {
-        text-shadow: 0 0 10px #00F7FF, 0 0 20px #00F7FF, 0 0 30px #00F7FF, 0 0 40px #36BCF7;
-      }
-    }
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
-    }
-    @keyframes float {
-      0% { transform: translateY(0px); }
-      50% { transform: translateY(-15px); }
-      100% { transform: translateY(0px); }
-    }
-  </style>
-  
   <defs>
     <linearGradient id="header-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#11151c;">
-        <animate attributeName="style" values="stop-color:#11151c;stop-color:#1a202c;stop-color:#11151c;" dur="10s" repeatCount="indefinite"></animate>
+      <stop offset="0%" stop-color="#11151c">
+        <animate attributeName="stop-color" values="#11151c;#1a202c;#11151c" dur="10s" repeatCount="indefinite"></animate>
       </stop>
-      <stop offset="100%" style="stop-color:#1a202c;">
-        <animate attributeName="style" values="stop-color:#1a202c;stop-color:#11151c;stop-color:#1a202c;" dur="10s" repeatCount="indefinite"></animate>
+      <stop offset="100%" stop-color="#1a202c">
+        <animate attributeName="stop-color" values="#1a202c;#11151c;#1a202c" dur="10s" repeatCount="indefinite"></animate>
       </stop>
     </linearGradient>
+
+    <filter id="glow-effect" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
   
-  <rect x="0" y="0" width="900" height="250" rx="15" class="header-bg"/>
+  <rect x="0" y="0" width="900" height="250" rx="15" fill="url(#header-gradient)"/>
   
-  <path class="icon" fill="#00F7FF" opacity="0.4" d="M60 80 L40 100 L60 120 M100 80 L120 100 L100 120" stroke="#00F7FF" stroke-width="3" fill="none" transform="translate(20, 20) scale(0.8)"/>
-  <path class="icon icon-2" fill="#36BCF7" opacity="0.4" d="M800 150 a 10 10 0 0 1 -20 0 V 100 a 10 10 0 0 1 20 0 z M 790 150 h 20 M 790 100 a 10 10 0 0 1 20 0" stroke="#36BCF7" stroke-width="2" fill="none" transform="translate(0, 20) scale(0.7)"/>
-  <g class="icon icon-3" transform="translate(80, 200) scale(0.3)">
-    <circle cx="0" cy="0" r="10" fill="none" stroke="#fff" stroke-width="5"/>
-    <ellipse cx="0" cy="0" rx="40" ry="15" stroke="#fff" stroke-width="5" fill="none" transform="rotate(45)"/>
-    <ellipse cx="0" cy="0" rx="40" ry="15" stroke="#fff" stroke-width="5" fill="none" transform="rotate(-45)"/>
-    <ellipse cx="0" cy="0" rx="15" ry="40" stroke="#fff" stroke-width="5" fill="none"/>
+  <g transform="translate(20, 20) scale(0.8)">
+    <path fill="#00F7FF" opacity="0.4" d="M60 80 L40 100 L60 120 M100 80 L120 100 L100 120" stroke="#00F7FF" stroke-width="3" fill-mode="none">
+      <animateTransform 
+        attributeName="transform"
+        type="translate"
+        values="0 0; 0 -10; 0 0"
+        begin="0s"
+        dur="4s"
+        repeatCount="indefinite" />
+    </path>
   </g>
 
-  <text x="50%" y="45%" class="title">Bagas Dwi Permana</text>
-  <text x="50%" y="60%" class="subtitle">🚀 Passionate Web Developer & UI/UX Designer 🚀</text>
+  <g transform="translate(0, 20) scale(0.7)">
+    <path fill="#36BCF7" opacity="0.4" d="M800 150 a 10 10 0 0 1 -20 0 V 100 a 10 10 0 0 1 20 0 z M 790 150 h 20 M 790 100 a 10 10 0 0 1 20 0" stroke="#36BCF7" stroke-width="2" fill-mode="none">
+       <animateTransform 
+        attributeName="transform"
+        type="translate"
+        values="0 0; 0 -15; 0 0"
+        begin="1s"
+        dur="4s"
+        repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <g transform="translate(80, 200) scale(0.3)">
+    <g>
+      <circle cx="0" cy="0" r="10" fill="none" stroke="#fff" stroke-width="5"/>
+      <ellipse cx="0" cy="0" rx="40" ry="15" stroke="#fff" stroke-width="5" fill="none" transform="rotate(45)"/>
+      <ellipse cx="0" cy="0" rx="40" ry="15" stroke="#fff" stroke-width="5" fill="none" transform="rotate(-45)"/>
+      <ellipse cx="0" cy="0" rx="15" ry="40" stroke="#fff" stroke-width="5" fill="none"/>
+      <animateTransform 
+        attributeName="transform"
+        type="translate"
+        values="0 0; 0 -20; 0 0"
+        begin="2s"
+        dur="4s"
+        repeatCount="indefinite" />
+    </g>
+  </g>
+
+  <text 
+    x="50%" y="45%" 
+    style="font-family: 'Fira Code', 'Segoe UI', 'Roboto', sans-serif; font-size: 38px; font-weight: bold; fill: #ffffff; text-anchor: middle;"
+    filter="url(#glow-effect)"
+  >
+    Bagas Dwi Permana
+  </text>
+  
+  <text 
+    x="50%" y="60%" 
+    style="font-family: 'Fira Code', 'Segoe UI', 'Roboto', sans-serif; font-size: 18px; fill: #ffffff; text-anchor: middle;"
+  >
+    🚀 Passionate Web Developer & UI/UX Designer 🚀
+    <animate attributeName="opacity" from="0" to="1" dur="3s" repeatCount="1" fill="freeze" />
+  </text>
 
   <foreignObject x="150" y="170" width="600" height="100">
     <img xmlns="http://www.w3.org/1999/xhtml" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Crafting+Modern+Web+Experiences;Full-Stack+Developer+in+the+Making;Loves+to+Code+%26+Design;Always+Exploring+New+Tech" alt="Typing SVG" />
